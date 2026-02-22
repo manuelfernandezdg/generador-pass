@@ -14,7 +14,7 @@ Funciona 100% en el navegador, **sin dependencias externas**, usando solo HTML, 
 
 ## Demo en vivo
 
-[Prueba la app aquí →](https://tu-usuario.github.io/tu-repositorio/)
+[Prueba la app aquí →](https://manuelfernandezdg.github.io/generador-pass/)
 
 ## Tecnologías utilizadas
 
